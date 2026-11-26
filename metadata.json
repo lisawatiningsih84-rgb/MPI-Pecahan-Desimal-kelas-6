@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Pecahan Desimal — Kelas 6",
+  "description": "Modul ajar interaktif Matematika Kelas 6 tentang Pecahan Desimal bertema buah dengan materi inti, aktivitas eksplorasi, kuis isian 10 soal, dan refleksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
